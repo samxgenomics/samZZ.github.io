@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to Sampath World!
+# Welcome to Sampath Genomics!
 
 I am post-doc research associate working with Isobel Parkin at the Agriculte and Agri-Food Canada, Saskatoon (http://bme.virginia.edu/).   I have broad knowledge and experience in plant molecular biology, genomics and genome evolution.
 
