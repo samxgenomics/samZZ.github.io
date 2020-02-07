@@ -16,7 +16,7 @@
 
 - name: Miscellaneous
   link: "/news"
-  group: Miscellaneous
+  group: news
 
 # - name: contact
 #   link: "/contact"
