@@ -6,41 +6,43 @@ group: CV
 
 ## Samapth CV Education, awards, Skills, expreiences and more...
 
-##### Academic Qualifications
+### Academic Qualifications
 <br>
-* Ph.D. Plant Biotechnology, Seoul National University, South Korea, 2014
-* M.Sc. Plant Biotechnology, Tamilnadu Agricultural University, India, 2008
-* B.Sc. Agriculture, Annamalai University, India, 2005
+•	Ph.D. Plant Biotechnology, Seoul National University, South Korea, 2014  <br>
+•	M.Sc. Plant Biotechnology, Tamilnadu Agricultural University, India, 2008  <br>
+•	B.Sc. Agriculture, Annamalai University, India, 2005 <br>
+
+### Professional Work Experiences	
+
+•	2016/09 – till now - Post-Doctoral researcher, Agriculture and Agri-Food Canada, Saskatoon, Canada.  <br>
+•	2014/03-2016/08 - Post-Doctoral fellow, Seoul National University, South Korea.  <br>
+•	2005/07-2006/03 - Agricultural officer cum Team Leader, MGP Herbals Private Ltd,  Manjini, India.  <br>
 <br>
 
-##### Fellowships and Awards
-•	Post-Doctoral Fellowship: Mitacs elevate postdoctoral fellowship (2018/08-2020/07)
+### Fellowships and Awards
+•	Post-Doctoral Fellowship: Mitacs elevate postdoctoral fellowship (2018/08-2020/07).  <br>
 •	PhD Fellowship: Received Korean Government Scholarship (2008-2013) from NIIED, South  Korea, to learn Korean language (09/2008-08/2009) (KLPT - Korean Language Proficiency Test score 295) and pursue doctoral course (09/2009-02/2014)
 •	Certificate of Merit: G.Vageesam Pillai Agricultural prize for securing the highest mark in the subject Plant Breeding (2003) during my under graduation studies 
 •	Certificate of Merit: First place Rural Agricultural work experience 
 •	Nanopore Poster Award: Nanopore poster presentation award for the Plant and Animal Genome Conference 2020, SanDiego, USA.
 
-##### Skills and Knowledge 
+### Skills and Knowledge 
 
-### Professonal: Genomics and Binformatics
+##### Professonal: Genomics and Binformatics
 •	Good knowledge and working experience of genomics (Genome assembly, annotation) and molecular breeding techniques (Marker development, MABC, QTL analysis, GWAS, Genomic selection)
 •	Expertised in structural and functional annotation of transposons, chloroplast genome assembly and evoluation studies
 •	Proficient in comparative, evolutionary and population genomics studies (Brassica genome)
 •	Experienced in processing NGS alignment, variant calling, gene expression analysis
 •	Knowledgeable in plant genomics research and computational methods for analysis Nanopore-seq, NGS, and SNP-array and other moleculat    maker data 
 •	Skilled in programming and scripting languages such as bash, Python, and R.
-Personal
+
+##### Personal
+
 •	Excellent communication skill and ability to present data to a multidisciplinary audience in a clear and cohesive manner.
 •	Experienced in project planning, project management 
 •	Excellent teamwork, time management, organizational skills and self-motivation to complete projects in a timely fashion
 •	Served as reviewer for various peer-reviewed journals including PLoSone, Scientific reports and PeerJ
 
-### Professional Work Experiences	
-
-•	2016/09 – till now - Post-Doctoral researcher, Agriculture and Agri-Food Canada, Saskatoon, Canada.
-•	2014/03-2016/08 - Post-Doctoral fellow, Seoul National University, South Korea
-•	2005/07-2006/03 - Agricultural officer cum Team Leader, MGP Herbals Private Ltd,  Manjini, India
-<br>
 
 ### Teaching/Research Guidance and Training Experience 
 <br>
@@ -73,14 +75,16 @@ Elucidation of NAM genetic diversity of phenotype prediction
 GWAS and Genomic selection of canola for yield and major agronomic traits
 Impact of different models and datasets on prediction accuracy
 
-** Post Doctoral Researcher, University of Saskatchewan,  09/2016 ~
+**Post Doctoral Researcher, University of Saskatchewan,  09/2016 ~
+
 High quality and high contiguity assembly of B. nigra genome based on Nanopore-sequencing
 Whole genome repeat annotation in B. nigra genome and comparative analysis of repetitive elements in the three Brassica genome including B. rapa, B. oleracea and B. nigra
 Characterization of B-genome specific MITE transposons in Brassica genome
 Whole genome comparative analysis of B. napus genotypes 
 Repetitive element survey in Wheat, canola, sinapsis sps, and seabuckthon
 
-Post Doctoral Researcher, Seoul National University, 03/2014 – 08/2016
+**Post Doctoral Researcher, Seoul National University, 03/2014 – 08/2016
+
 Developing, assembly, annotation, genomic survey and comparative analysis of major repetitive elements in the three Brassica genome including B. rapa, B. oleracea and B. napus
 Development of database and novel tools for analyzing the miniature transposable elements (TRIMs, SINEs, MITEs) of Brassica genome and ginseng for the molecular breeding purposes
 Developed a novel approach for high throughput marker development method based on transposon display and NGS-display
@@ -90,7 +94,8 @@ Development of high quality genetic map and QTL analysis based on genotyping by 
 Working on Genome-wide association studies (GWAS) for major disease resistance and yield related traits in Brassica oleracea genome
 
 
-Graduate Research Assistant, College of Agriculture and Life Sciences, Seoul National University
+**Graduate Research Assistant, College of Agriculture and Life Sciences, Seoul National University
+
 Genome-wide identification and characterization of novel transposon families in Brassica genomes including B. rapa and B. oleracea
 Involved in multi-national project for cabbage genome sequencing and generation of draft genome annotation 
 Development of molecular markers based on SSR, EST-SSR, transposons and SNPs for Brassica breeding, diversity and evolutionary studies
