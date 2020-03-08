@@ -42,7 +42,6 @@ group: CV
 •	Served as reviewer for various peer-reviewed journals including PLoSone, Scientific reports and PeerJ  <br>
 
 ### Teaching/Research Guidance and Training Experience 
-<br>
 -	2016/03 – 2016/04: Tutor - Teaching Under graduates and post graduate students – on  “Plant genomics with the focus on repetitive elements”, at Seoul national University, South Korea  <br>
 -	2013/09 – 2016/03: Research Guidance - Provided research guidance for 4 PG and 2 PhDs about various genomics, bioinformatics and molecular biology experiments, at Seoul national University, South Korea  <br>
 -	Jul 26, 2016: Peer tutor - Provided one day hands on experience on “Structural and functional characterization of  Transposable elements in Plant Genomes, organized at Seoul national University, South Korea  <br>
@@ -59,48 +58,11 @@ Workshop: Foundations of Project Management II	University of Saskatchewan, Canad
 
 <br>
 ### Outreach, Management Skills and Community involvement
-  <br>
 o	2019/10- ~ :  PSAC Union Vice-President, University of Saskatchewan  <br>
 o	2010-2015 Indian community activity – Organizing events, Conducting functions and games shows  <br>
 o	2008/09-2009/08	: Korean Language Scholar, Wonkwang University, South Korea  <br>
 o	2017/10-2018/03 :  PSAC Union Secretary, University of Saskatchewan  <br>
 o	Volunteering on various events: Blood donation camps, Marathon, Translation  <br>
-
-
-**MITACS elevate post-doctoral fellow, Agriculture and Agri-Food Canada, Saskatoon, 08/2018 ~ **
-
-Elucidation of NAM genetic diversity of phenotype prediction   <br>
-GWAS and Genomic selection of canola for yield and major agronomic traits  <br>
-Impact of different models and datasets on prediction accuracy  <br>
-
-**Post Doctoral Researcher, University of Saskatchewan,  09/2016 ~
-
-High quality and high contiguity assembly of B. nigra genome based on Nanopore-sequencing
-Whole genome repeat annotation in B. nigra genome and comparative analysis of repetitive elements in the three Brassica genome including B. rapa, B. oleracea and B. nigra
-Characterization of B-genome specific MITE transposons in Brassica genome
-Whole genome comparative analysis of B. napus genotypes 
-Repetitive element survey in Wheat, canola, sinapsis sps, and seabuckthon
-
-**Post Doctoral Researcher, Seoul National University, 03/2014 – 08/2016
-
-Developing, assembly, annotation, genomic survey and comparative analysis of major repetitive elements in the three Brassica genome including B. rapa, B. oleracea and B. napus
-Development of database and novel tools for analyzing the miniature transposable elements (TRIMs, SINEs, MITEs) of Brassica genome and ginseng for the molecular breeding purposes
-Developed a novel approach for high throughput marker development method based on transposon display and NGS-display
-Assembly and annotation of complete chloroplast genome sequences and rDNA units and phylogenetic analysis in 60 inter-intra Brassica species including B. rapa, B. oleracea and B. napus
-Genome-wide SNP Genotyping analysis based on Re-sequencing and Transcriptomics data generated from Brassica cultivars
-Development of high quality genetic map and QTL analysis based on genotyping by sequencing (GBS) approach
-Working on Genome-wide association studies (GWAS) for major disease resistance and yield related traits in Brassica oleracea genome
-
-
-**Graduate Research Assistant, College of Agriculture and Life Sciences, Seoul National University
-
-Genome-wide identification and characterization of novel transposon families in Brassica genomes including B. rapa and B. oleracea
-Involved in multi-national project for cabbage genome sequencing and generation of draft genome annotation 
-Development of molecular markers based on SSR, EST-SSR, transposons and SNPs for Brassica breeding, diversity and evolutionary studies
-Whole genome identification and comparative analysis of miniature inverted –repeat transposable elements between B. rapa and B. oleracea 
-Generation of high-quality linkage map and QTL analysis for disease resistance traits of Brassica genome
-
-
 
 
 
