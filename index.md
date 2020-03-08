@@ -12,3 +12,4 @@ I am post-doc researcher working with [Isobel Parkin](http://parkingenomics.gith
 	3. Experience in plant genomics research and computational methods for analysis Nanopore-seq, NGS, GWAS, linkage and QTL mapping, and phylogenetic data.<br>
 
 Currently, I am focused on Genomics selection to increase canola yield under MITACS elevate program.
+[Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
