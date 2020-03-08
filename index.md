@@ -15,4 +15,4 @@ I have worked on various aspects in multiple plant species (diploids and polyplo
 
 Currently, I am focused on Genomics selection under MITACS elevate program to increase canola yield.
 
-# Looking for an opportunity in plant genomics filed to make a real difference and working on challenging problems that matters. 
+Looking for an opportunity in plant genomics filed to make a real difference and working on challenging problems that matters. 
