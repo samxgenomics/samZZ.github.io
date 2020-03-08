@@ -27,7 +27,7 @@ group: CV
 
 ### Skills and Knowledge 
 
-***Professonal: Genomics and Binformatics***
+***Professonal: Genomics and Binformatics***   <br>
 •	Good knowledge and working experience of genomics (Genome assembly, annotation) and molecular breeding techniques (Marker development, MABC, QTL analysis, GWAS, Genomic selection)  <br>
 •	Expertised in structural and functional annotation of transposons, chloroplast genome assembly and evoluation studies  <br>
 •	Proficient in comparative, evolutionary and population genomics studies (Brassica genome)  <br>
@@ -35,7 +35,7 @@ group: CV
 •	Knowledgeable in plant genomics research and computational methods for analysis Nanopore-seq, NGS, and SNP-array and other moleculat    maker data   <br>
 •	Skilled in programming and scripting languages such as bash, Python, and R.  <br>
 
-***Personal***
+***Personal***   <br>
 •	Excellent communication skill and ability to present data to a multidisciplinary audience in a clear and cohesive manner  <br>
 •	Experienced in project planning, project management   <br>
 •	Excellent teamwork, time management, organizational skills and self-motivation to complete projects in a timely fashion   <br>
