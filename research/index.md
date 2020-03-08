@@ -27,7 +27,7 @@ group: CV
 
 ### Skills and Knowledge 
 
-##### Professonal: Genomics and Binformatics
+***Professonal: Genomics and Binformatics***
 •	Good knowledge and working experience of genomics (Genome assembly, annotation) and molecular breeding techniques (Marker development, MABC, QTL analysis, GWAS, Genomic selection)  <br>
 •	Expertised in structural and functional annotation of transposons, chloroplast genome assembly and evoluation studies  <br>
 •	Proficient in comparative, evolutionary and population genomics studies (Brassica genome)  <br>
@@ -35,7 +35,7 @@ group: CV
 •	Knowledgeable in plant genomics research and computational methods for analysis Nanopore-seq, NGS, and SNP-array and other moleculat    maker data   <br>
 •	Skilled in programming and scripting languages such as bash, Python, and R.  <br>
 
-##### Personal
+***Personal***
 •	Excellent communication skill and ability to present data to a multidisciplinary audience in a clear and cohesive manner  <br>
 •	Experienced in project planning, project management   <br>
 •	Excellent teamwork, time management, organizational skills and self-motivation to complete projects in a timely fashion   <br>
@@ -49,14 +49,13 @@ group: CV
 <br>
 
 ### Trained for teaching and research
-Principles of teaching and philosophy 	University of Saskatchewan, Canada	Sep 2017 –Apr 2018
-Professional Skill Development	University of Saskatchewan, Canada	Sep 2017 – Apr 2018
-Workshop: Teaching assistant success series	University of Saskatchewan, Canada	Mar 12, 2018
-Workshop: Foundations of Project Management I	University of Saskatchewan, Canada	Oct 24-25, 2017
-Workshop: Scientific and Technical Writing Skills	University of Saskatchewan, Canada	Nov 3 & 6, 2017
-Workshop: Foundations of Project Management II	University of Saskatchewan, Canada	Mar 8-9, 2018
+**Principles of teaching and philosophy** - University of Saskatchewan, Canada	Sep 2017 – Apr 2018  <br>
+**Professional Skill Development** - University of Saskatchewan, Canada	Sep 2017 – Apr 2018  <br>
+**Workshop**: Teaching assistant success series -	University of Saskatchewan, Canada	Mar 12, 2018  <br>
+**Workshop**: Foundations of Project Management I - University of Saskatchewan, Canada	Oct 24-25, 2017  <br>
+**Workshop**: Scientific and Technical Writing Skills -	University of Saskatchewan, Canada	Nov 3 & 6, 2017  <br>
+**Workshop**: Foundations of Project Management II - University of Saskatchewan, Canada	Mar 8-9, 2018  <br>
 
-<br>
 ### Outreach, Management Skills and Community involvement
 o	2019/10- ~ :  PSAC Union Vice-President, University of Saskatchewan  <br>
 o	2010-2015 Indian community activity – Organizing events, Conducting functions and games shows  <br>
