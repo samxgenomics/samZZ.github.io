@@ -11,9 +11,13 @@
   group: publications
 
 - name: Protocals
-  link: "/members"
-  group: members
-
+  link: "/Protocals"
+  group: Protocals
+  
+# - name: Protocals
+#  link: "/members"
+#  group: members
+  
 - name: Miscellaneous
   link: "/news"
   group: news
