@@ -10,15 +10,15 @@
   link: "/publications"
   group: publications
 
-#- name: Protocals
-#  link: "/Protocals"
-#  group: Protocals
+#- name: Protocols
+#  link: "/Protocols"
+#  group: Protocols
   
-# - name: Protocals
+# - name: Protocols
 #  link: "/members"
 #  group: members
   
-- name: Protocals
+- name: Protocols
   link: "/news"
   group: news
 
