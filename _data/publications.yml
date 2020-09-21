@@ -1,4 +1,4 @@
-- citation: '** Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. **A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome**. *Nature Plants*. 2020.'
+- citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. **A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome**. *Nature Plants*. 2020.'
   date:  2020
   pmid: 32782408
   image: '/static/img/pub/27.2020_BnigraGenome_NatPlants.png'
@@ -11,30 +11,6 @@
       url: 'http://cruciferseq.ca/'
 
 - citation: '**Perumal Sampath**, James Brian, Tang Lily, Kagale Sateesh, Robinson Stephen J., Yang Tae-Jin, Parkin Isobel A. P. **Characterization of B-Genome Specific High Copy hAT MITE Families in Brassica nigra Genome**. *Front Plant Sci*. 2020.'
-  date:  2020
-  pmid: 32793262
-  image: '/static/img/pub/26.BnMITE_FIPS.png'
-  pdf: '/static/pdf/26.2020_Sampath_BigraMITE.pdf'
-  
-  links:
-    - name: "For Supplemental materials"
-      url: 'https://www.frontiersin.org/articles/10.3389/fpls.2020.01104/full#h12'
-    - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/'
-
-- citation: '** Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome. *Nature Plants*. 2020.'
-  date:  2020
-  pmid: 32782408
-  image: '/static/img/pub/27.2020_BnigraGenome_NatPlants.png'
-  pdf: '/static/pdf/27.2020_NatPlants_Sampath_BnigaONT.pdf'
-  
-  links:
-    - name: "For Supplemental materials"
-      url: 'https://www.nature.com/articles/s41477-020-0735-y#Sec19'
-    - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/'
-
-- citation: '**Perumal Sampath**, James Brian, Tang Lily, Kagale Sateesh, Robinson Stephen J., Yang Tae-Jin, Parkin Isobel A. P. Characterization of B-Genome Specific High Copy hAT MITE Families in Brassica nigra Genome. *Front Plant Sci*. 2020.'
   date:  2020
   pmid: 32793262
   image: '/static/img/pub/26.BnMITE_FIPS.png'
