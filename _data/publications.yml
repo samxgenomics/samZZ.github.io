@@ -20,7 +20,7 @@
     - name: "For Supplemental materials"
       url: 'https://www.frontiersin.org/articles/10.3389/fpls.2020.01104/full#h12'
     - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/
+      url: 'http://cruciferseq.ca/'
 
 - citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin, Zheng Chunfang, Sankoff David, Robinson Stephen J, Kagale Sateesh, Navabi Zahra-Katy. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. *BioRxiv*. 2020.\*Published in Nature Plants'
   date:  2020
