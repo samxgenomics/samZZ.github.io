@@ -1,4 +1,28 @@
-- citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin, Zheng Chunfang, Sankoff David, Robinson Stephen J, Kagale Sateesh, Navabi Zahra-Katy. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. BioRxiv. 2020.'
+- citation: '** Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome. *Nature Plants*. 2020.'
+  date:  2020
+  pmid: 32782408
+  image: '/static/img/pub/27.2020_BnigraGenome_NatPlants.png'
+  pdf: '/static/pdf/27.2020_NatPlants_Sampath_BnigaONT.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.nature.com/articles/s41477-020-0735-y#Sec19'
+    - name: "JBrowse website"
+      url: 'http://cruciferseq.ca/'
+
+- citation: '**Perumal Sampath**, James Brian, Tang Lily, Kagale Sateesh, Robinson Stephen J., Yang Tae-Jin, Parkin Isobel A. P. Characterization of B-Genome Specific High Copy hAT MITE Families in Brassica nigra Genome. *Front Plant Sci*. 2020.'
+  date:  2020
+  pmid: 32793262
+  image: '/static/img/pub/26.BnMITE_FIPS.png'
+  pdf: '/static/pdf/26.2020_Sampath_BigraMITE.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.frontiersin.org/articles/10.3389/fpls.2020.01104/full#h12'
+    - name: "JBrowse website"
+      url: 'http://cruciferseq.ca/
+
+- citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin, Zheng Chunfang, Sankoff David, Robinson Stephen J, Kagale Sateesh, Navabi Zahra-Katy. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. *BioRxiv*. 2020.\*Published in Nature Plants'
   date:  2020
   pmid: 
   image: '/static/img/pub/25.png'
@@ -10,7 +34,7 @@
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
 
-- citation: 'Jayakodi Murukarthick, Madheswaran Manimekalai, Adhimoolam Karthikeyan, **Perumal Sampath**, Manickam Dhasarathan, Kandasamy Thangaraj, Yang Tae-Jin, Natesan Senthil. Transcriptomes of Indian barnyard millet and barnyardgrass reveal putative genes involved in drought adaptation and micronutrient accumulation. Acta Physiologiae Plantarum. 2019.'
+- citation: 'Jayakodi Murukarthick, Madheswaran Manimekalai, Adhimoolam Karthikeyan, **Perumal Sampath**, Manickam Dhasarathan, Kandasamy Thangaraj, Yang Tae-Jin, Natesan Senthil. Transcriptomes of Indian barnyard millet and barnyardgrass reveal putative genes involved in drought adaptation and micronutrient accumulation. *Acta Physiologiae Plantarum*. 2019.'
   date:  2019
   pmid: 
   image: '/static/img/pub/24.png'
@@ -19,7 +43,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Kim Chang-Kug\*, Seol Young-Joo\*, **Perumal Sampath\***, Lee Jonghoon, Waminal Nomar Espinosa, Jayakodi Murukarthick, Lee Sang-Choon, Jin Seungwoo, Choi Beom-Soon, Yu Yeisoo. Re-exploration of U’s Triangle Brassica Species Based on Chloroplast Genomes and 45S nrDNA Sequences. Scientific reports. 2018. \*Equal contribution'
+- citation: 'Kim Chang-Kug\*, Seol Young-Joo\*, **Perumal Sampath\***, Lee Jonghoon, Waminal Nomar Espinosa, Jayakodi Murukarthick, Lee Sang-Choon, Jin Seungwoo, Choi Beom-Soon, Yu Yeisoo. Re-exploration of U’s Triangle Brassica Species Based on Chloroplast Genomes and 45S nrDNA Sequences. *Scientific reports*. 2018. \*Equal contribution'
   date:  2018
   pmid:  29743507
   image: '/static/img/pub/23.png'
@@ -28,7 +52,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Nam‐Hoon Kim, Murukarthick Jayakodi, Sang‐Choon Lee, Beom‐Soon Choi, Woojong Jang, Junki Lee, Hee Kim Hyun, E. Waminal Nomar, Meiyappan Lakshmanan, Binh Nguyen, Sun Lee Yun, Hyun‐Seung Park, Jo Koo Hyun, Young Park Jee, **Sampath Perumal**, Jun Joh Ho, Hana Lee, Jinkyung Kim, Seo Kim In, Kyunghee Kim, Lokanand Koduru, Bin Kang Kyo, Hyun Sung Sang, Yeisoo Yu, S. Park Daniel, Doil Choi, Eunyoung Seo, Seungill Kim, Young‐Chang Kim, Yun Hyun Dong, Youn‐Il Park, Changsoo Kim, Tae‐Ho Lee, Uk Kim Hyun, Soo Soh Moon, Yi Lee, Gyo In Jun, Heui‐Soo Kim, Yong‐Min Kim, Deok‐Chun Yang, A. Wing Rod, Dong‐Yup Lee, H. Paterson Andrew, Tae‐Jin Yang. Genome and evolution of the shade‐requiring medicinal herb Panax ginseng. Plant biotechnology journal. 2018.'
+- citation: 'Nam‐Hoon Kim, Murukarthick Jayakodi, Sang‐Choon Lee, Beom‐Soon Choi, Woojong Jang, Junki Lee, Hee Kim Hyun, E. Waminal Nomar, Meiyappan Lakshmanan, Binh Nguyen, Sun Lee Yun, Hyun‐Seung Park, Jo Koo Hyun, Young Park Jee, **Sampath Perumal**, Jun Joh Ho, Hana Lee, Jinkyung Kim, Seo Kim In, Kyunghee Kim, Lokanand Koduru, Bin Kang Kyo, Hyun Sung Sang, Yeisoo Yu, S. Park Daniel, Doil Choi, Eunyoung Seo, Seungill Kim, Young‐Chang Kim, Yun Hyun Dong, Youn‐Il Park, Changsoo Kim, Tae‐Ho Lee, Uk Kim Hyun, Soo Soh Moon, Yi Lee, Gyo In Jun, Heui‐Soo Kim, Yong‐Min Kim, Deok‐Chun Yang, A. Wing Rod, Dong‐Yup Lee, H. Paterson Andrew, Tae‐Jin Yang. Genome and evolution of the shade‐requiring medicinal herb Panax ginseng. *Plant biotechnology journal*. 2018.'
   date:  2018
   pmid:  29604169
   image: '/static/img/pub/22.png'
@@ -37,7 +61,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'doi:10.1111/pbi.12926'
-- citation: '**Perumal Sampath**, Lee Jonghoon, Waminal Nomar Espinosa, Liu Shengyi, Yang Tae-Jin. Diversity and Evolution of B. napus Chloroplast Genome. The Brassica napus Genome. 2018.'
+- citation: '**Perumal Sampath**, Lee Jonghoon, Waminal Nomar Espinosa, Liu Shengyi, Yang Tae-Jin. Diversity and Evolution of B. napus Chloroplast Genome. *The Brassica napus Genome*. 2018.'
   date:  2018
   pmid: 
   image: '/static/img/pub/21.png'
@@ -46,7 +70,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Liu Shengyi, Chalhoub Boulos, Kim Hyun Hee, Yang Tae-Jin. Quantity, Distribution, and Evolution of Major Repeats in Brassica napus. The Brassica napus Genome. 2018.'
+- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Liu Shengyi, Chalhoub Boulos, Kim Hyun Hee, Yang Tae-Jin. Quantity, Distribution, and Evolution of Major Repeats in Brassica napus. *The Brassica napus Genome*. 2018.'
   date:  2018
   pmid: 
   image: '/static/img/pub/20.png'
@@ -55,7 +79,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Lee Junki, Waminal Nomar Espinosa, Choi Hong-Il, **Perumal Sampath**, Lee Sang-Choon, Nguyen Van Binh, Jang Woojong, Kim Nam-Hoon, Gao Li-zhi, Yang Tae-Jin. Rapid amplification of four retrotransposon families promoted speciation and genome size expansion in the genus Panax. Scientific reports. 2017.'
+- citation: 'Lee Junki, Waminal Nomar Espinosa, Choi Hong-Il, **Perumal Sampath**, Lee Sang-Choon, Nguyen Van Binh, Jang Woojong, Kim Nam-Hoon, Gao Li-zhi, Yang Tae-Jin. Rapid amplification of four retrotransposon families promoted speciation and genome size expansion in the genus Panax. *Scientific reports*. 2017.'
   date:  2017
   pmid:  28831052
   image: '/static/img/pub/19.png'
@@ -64,7 +88,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Perumal Sampath**, Waminal Nomar Espinosa, Lee Jonghoon, Lee Junki, Choi Beom-Soon, Kim Hyun Hee, Grandbastien Marie-Angèle, Yang Tae-Jin. Elucidating the major hidden genomic components of the A, C, and AC genomes and their influence on Brassica evolution. Scientific reports. 2017.'
+- citation: '**Perumal Sampath**, Waminal Nomar Espinosa, Lee Jonghoon, Lee Junki, Choi Beom-Soon, Kim Hyun Hee, Grandbastien Marie-Angèle, Yang Tae-Jin. Elucidating the major hidden genomic components of the A, C, and AC genomes and their influence on Brassica evolution. *Scientific reports*. 2017.'
   date:  2017
   pmid:  29269833
   image: '/static/img/pub/18.png'
@@ -73,7 +97,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Seol Young-Joo, Kim Kyunghee, Kang Sang-Ho, **Perumal Sampath**, Lee Jonghoon, Kim Chang-Kug. The complete chloroplast genome of two Brassica species, Brassica nigra and B. Oleracea. Mitochondrial DNA Part A. 2017.'
+- citation: 'Seol Young-Joo, Kim Kyunghee, Kang Sang-Ho, **Perumal Sampath**, Lee Jonghoon, Kim Chang-Kug. The complete chloroplast genome of two Brassica species, Brassica nigra and B. Oleracea. *Mitochondrial DNA Part A*. 2017.'
   date:  2017
   pmid:  26709541
   image: '/static/img/pub/17.png'
@@ -82,7 +106,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Perumal Sampath**, Jayakodi Murukarthick, Kim Do-Soon, Yang Tae-jin, Natesan Senthil. The complete chloroplast genome sequence of Indian barnyard millet, Echinochloa frumentacea (Poaceae). Mitochondrial DNA Part B. 2016.'
+- citation: '**Perumal Sampath**, Jayakodi Murukarthick, Kim Do-Soon, Yang Tae-jin, Natesan Senthil. The complete chloroplast genome sequence of Indian barnyard millet, Echinochloa frumentacea (Poaceae). *Mitochondrial DNA Part B*. 2016.'
   date:  2016
   pmid: 
   image: '/static/img/pub/16.png'
@@ -91,7 +115,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Perumal Sampath**, Waminal Nomar Espinosa, Lee Jonghoon, Izzah Nur Kholilatul, Jin Mina, Choi Beom-Soon, Yang Tae-Jin. Next-Generation Sequencing Based Transposon Display to Detect High-Throughput Insertion Polymorphism Markers in Brassica. Plant breeding and biotechnology. 2016.'
+- citation: '**Perumal Sampath**, Waminal Nomar Espinosa, Lee Jonghoon, Izzah Nur Kholilatul, Jin Mina, Choi Beom-Soon, Yang Tae-Jin. Next-Generation Sequencing Based Transposon Display to Detect High-Throughput Insertion Polymorphism Markers in Brassica. *Plant breeding and biotechnology*. 2016.'
   date:  2016
   pmid: 
   image: '/static/img/pub/15.png'
@@ -100,7 +124,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Lee Jonghoon, Kim Hyun Hee, Yang Tae-Jin. Repeat Evolution in Brassica rapa (AA), B. oleracea (CC), and B. napus (AACC) Genomes. Plant breeding and biotechnology. 2016.'
+- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Lee Jonghoon, Kim Hyun Hee, Yang Tae-Jin. Repeat Evolution in Brassica rapa (AA), B. oleracea (CC), and B. napus (AACC) Genomes. *Plant breeding and biotechnology*. 2016.'
   date:  2016
   pmid: 
   image: '/static/img/pub/14.png'
@@ -109,7 +133,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Kim Kyunghee, Lee Sang-Choon, Lee Junki, Yu Yeisoo, Yang Kiwoung, Choi Beom-Soon, Koh Hee-Jong, Waminal Nomar Espinosa, Choi Hong-Il, Kim Nam-Hoon, Jang Woojong, Park Hyun-Seung, Lee Jonghoon, Lee Hyun Oh, Joh Ho Jun, Lee Hyeon Ju, Park Jee Young, **Perumal Sampath**, Jayakodi Murukarthick, Lee Yun Sun, Kim Backki, Copetti Dario, Kim Soonok, Kim Sunggil, Lim Ki-Byung, Kim Young-Dong, Lee Jungho, Cho Kwang-Su, Park Beom-Seok, Wing Rod A., Yang Tae-Jin. Complete chloroplast and ribosomal sequences for 30 accessions elucidate evolution of Oryza AA genome species. Scientific reports. 2015.'
+- citation: 'Kim Kyunghee, Lee Sang-Choon, Lee Junki, Yu Yeisoo, Yang Kiwoung, Choi Beom-Soon, Koh Hee-Jong, Waminal Nomar Espinosa, Choi Hong-Il, Kim Nam-Hoon, Jang Woojong, Park Hyun-Seung, Lee Jonghoon, Lee Hyun Oh, Joh Ho Jun, Lee Hyeon Ju, Park Jee Young, **Perumal Sampath**, Jayakodi Murukarthick, Lee Yun Sun, Kim Backki, Copetti Dario, Kim Soonok, Kim Sunggil, Lim Ki-Byung, Kim Young-Dong, Lee Jungho, Cho Kwang-Su, Park Beom-Seok, Wing Rod A., Yang Tae-Jin. Complete chloroplast and ribosomal sequences for 30 accessions elucidate evolution of Oryza AA genome species. *Scientific reports*. 2015.'
   date:  2015
   pmid:  26506948
   image: '/static/img/pub/13.png'
@@ -118,7 +142,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Lee Jonghoon, Izzah Nur Kholilatul, Choi Beom-Soon, Joh Ho Jun, Lee Sang-Choon, **Perumal Sampath**, Seo Joodeok, Ahn Kyounggu, Jo Eun Ju, Choi Gyung Ja. Genotyping-by-sequencing map permits identification of clubroot resistance QTLs and revision of the reference genome assembly in cabbage (Brassica oleracea L.). DNA Research. 2015.'
+- citation: 'Lee Jonghoon, Izzah Nur Kholilatul, Choi Beom-Soon, Joh Ho Jun, Lee Sang-Choon, **Perumal Sampath**, Seo Joodeok, Ahn Kyounggu, Jo Eun Ju, Choi Gyung Ja. Genotyping-by-sequencing map permits identification of clubroot resistance QTLs and revision of the reference genome assembly in cabbage (Brassica oleracea L.). *DNA Research*. 2015.'
   date:  2015
   pmid:  26622061
   image: '/static/img/pub/12.png'
@@ -127,7 +151,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Lee Jonghoon, Izzah Nur Kholilatul, Jayakodi Murukarthick, **Perumal Sampath**, Joh Ho Jun, Lee Hyeon Ju, Lee Sang-Choon, Park Jee Young, Yang Ki-Woung, Nou Il-Sup, Seo Joodeok, Yoo Jaeheung, Suh Youngdeok, Ahn Kyounggu, Lee Ji Hyun, Choi Gyung Ja, Yu Yeisoo, Kim Heebal, Yang Tae-Jin. Genome-wide SNP identification and QTL mapping for black rot resistance in cabbage. BMC plant biology. 2015.'
+- citation: 'Lee Jonghoon, Izzah Nur Kholilatul, Jayakodi Murukarthick, **Perumal Sampath**, Joh Ho Jun, Lee Hyeon Ju, Lee Sang-Choon, Park Jee Young, Yang Ki-Woung, Nou Il-Sup, Seo Joodeok, Yoo Jaeheung, Suh Youngdeok, Ahn Kyounggu, Lee Ji Hyun, Choi Gyung Ja, Yu Yeisoo, Kim Heebal, Yang Tae-Jin. Genome-wide SNP identification and QTL mapping for black rot resistance in cabbage. *BMC plant biology*. 2015.'
   date:  2015
   pmid:  25644124 
   image: '/static/img/pub/11.png'
@@ -136,7 +160,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Sampath Perumal**, Lee Jonghoon, Cheng Feng, Wang Xiaowu, Yang Tae-Jin. Miniature Transposable Elements (mTEs): Impacts and Uses in the Brassica Genome. The Brassica rapa Genome. 2015.'
+- citation: '**Sampath Perumal**, Lee Jonghoon, Cheng Feng, Wang Xiaowu, Yang Tae-Jin. Miniature Transposable Elements (mTEs): Impacts and Uses in the Brassica Genome. *The Brassica rapa Genome*. 2015.'
   date:  2015
   pmid: 
   image: '/static/img/pub/10.png'
@@ -145,7 +169,7 @@
   links:
     - name: "For Supplemental materials"
       url: '10.1007/978-3-662-47901-8_6'
-- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Lim Ki-Byung, Park Beom-Seok, Kim Hyun Hee, Yang Tae-Jin. Genomic Survey of the Hidden Components of the B. rapa Genome. The Brassica rapa Genome. 2015.'
+- citation: 'Waminal Nomar Espinosa, **Perumal Sampath**, Lim Ki-Byung, Park Beom-Seok, Kim Hyun Hee, Yang Tae-Jin. Genomic Survey of the Hidden Components of the B. rapa Genome. *The Brassica rapa Genome*. 2015.'
   date:  2015
   pmid: 
   image: '/static/img/pub/9.png'
@@ -154,7 +178,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Izzah Nur Kholilatul, Lee Jonghoon, Jayakodi Murukarthick, **Perumal Sampath**, Jin Mina, Park Beom-Seok, Ahn Kyounggu, Yang Tae-Jin. Transcriptome sequencing of two parental lines of cabbage (Brassica oleracea L. var. capitata L.) and construction of an EST-based genetic map. BMC genomics. 2014.'
+- citation: 'Izzah Nur Kholilatul, Lee Jonghoon, Jayakodi Murukarthick, **Perumal Sampath**, Jin Mina, Park Beom-Seok, Ahn Kyounggu, Yang Tae-Jin. Transcriptome sequencing of two parental lines of cabbage (Brassica oleracea L. var. capitata L.) and construction of an EST-based genetic map. *BMC genomics*. 2014.'
   date:  2014
   pmid:  24559437
   image: '/static/img/pub/8.png'
@@ -163,7 +187,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Liu S., Liu Y., Yang X., Tong C., Edwards D., Parkin I. A., Zhao M., Ma J., Yu J., Huang S., Wang X., Wang J., Lu K., Fang Z., Bancroft I., Yang T. J., Hu Q., Wang X., Yue Z., Li H., Yang L., Wu J., Zhou Q., Wang W., King G. J., Pires J. C., Lu C., Wu Z., **Sampath P**., Wang Z., Guo H., Pan S., Yang L., Min J., Zhang D., Jin D., Li W., Belcram H., Tu J., Guan M., Qi C., Du D., Li J., Jiang L., Batley J., Sharpe A. G., Park B. S., Ruperao P., Cheng F., Waminal N. E., Huang Y., Dong C., Wang L., Li J., Hu Z., Zhuang M., Huang Y., Huang J., Shi J., Mei D., Liu J., Lee T. H., Wang J., Jin H., Li Z., Li X., Zhang J., Xiao L., Zhou Y., Liu Z., Liu X., Qin R., Tang X., Liu W., Wang Y., Zhang Y., Lee J., Kim H. H., Denoeud F., Xu X., Liang X., Hua W., Wang X., Wang J., Chalhoub B., Paterson A. H. The Brassica oleracea genome reveals the asymmetrical evolution of polyploid genomes. Nature communications. 2014.'
+- citation: 'Liu S., Liu Y., Yang X., Tong C., Edwards D., Parkin I. A., Zhao M., Ma J., Yu J., Huang S., Wang X., Wang J., Lu K., Fang Z., Bancroft I., Yang T. J., Hu Q., Wang X., Yue Z., Li H., Yang L., Wu J., Zhou Q., Wang W., King G. J., Pires J. C., Lu C., Wu Z., **Sampath P**., Wang Z., Guo H., Pan S., Yang L., Min J., Zhang D., Jin D., Li W., Belcram H., Tu J., Guan M., Qi C., Du D., Li J., Jiang L., Batley J., Sharpe A. G., Park B. S., Ruperao P., Cheng F., Waminal N. E., Huang Y., Dong C., Wang L., Li J., Hu Z., Zhuang M., Huang Y., Huang J., Shi J., Mei D., Liu J., Lee T. H., Wang J., Jin H., Li Z., Li X., Zhang J., Xiao L., Zhou Y., Liu Z., Liu X., Qin R., Tang X., Liu W., Wang Y., Zhang Y., Lee J., Kim H. H., Denoeud F., Xu X., Liang X., Hua W., Wang X., Wang J., Chalhoub B., Paterson A. H. The Brassica oleracea genome reveals the asymmetrical evolution of polyploid genomes. *Nature communications*. 2014.'
   date:  2014
   pmid:  4279128
   image: '/static/img/pub/7.png'
@@ -172,7 +196,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Murukarthick Jayakodi\*, **Sampath Perumal\***, Lee Sang Choon, Choi Beom-Soon, Senthil Natesan, Liu Shengyi, Yang Tae-Jin. BrassicaTED - a public database for utilization of miniature transposable elements in Brassica species. BMC Research Notes. 2014. \*Equal contribution'
+- citation: 'Murukarthick Jayakodi\*, **Sampath Perumal\***, Lee Sang Choon, Choi Beom-Soon, Senthil Natesan, Liu Shengyi, Yang Tae-Jin. BrassicaTED - a public database for utilization of miniature transposable elements in Brassica species. *BMC Research Notes*. 2014. \*Equal contribution'
   date:  2014
   pmid:  24948109
   image: '/static/img/pub/6.png'
@@ -181,7 +205,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Sampath Perumal**, Murukarthick Jayakodi, Izzah Nur Kholilatul, Lee Jonghoon, Choi Hong-Il, Shirasawa Kenta, Choi Beom-Soon, Liu Shengyi, Nou Ill-Sup, Yang Tae-Jin. Genome-Wide Comparative Analysis of 20 Miniature Inverted-Repeat Transposable Element Families in Brassica rapa and B. oleracea. PloS one. 2014.'
+- citation: '**Sampath Perumal**, Murukarthick Jayakodi, Izzah Nur Kholilatul, Lee Jonghoon, Choi Hong-Il, Shirasawa Kenta, Choi Beom-Soon, Liu Shengyi, Nou Ill-Sup, Yang Tae-Jin. Genome-Wide Comparative Analysis of 20 Miniature Inverted-Repeat Transposable Element Families in Brassica rapa and B. oleracea. *PloS one*. 2014.'
   date:  2014
   pmid:  24747717 
   image: '/static/img/pub/5.png'
@@ -190,7 +214,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Sampath Perumal**, Yang Tae-Jin. Comparative analysis of Cassandra TRIMs in three Brassicaceae genomes. Plant Genetic Resources. 2014.'
+- citation: '**Sampath Perumal**, Yang Tae-Jin. Comparative analysis of Cassandra TRIMs in three Brassicaceae genomes. *Plant Genetic Resources*. 2014.'
   date:  2014
   pmid: 
   image: '/static/img/pub/4.png'
@@ -199,7 +223,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Sampath Perumal**, Yang Tae-Jin. Miniature Inverted-repeat Transposable Elements (MITEs) as valuable genomic resources for the evolution and breeding of Brassica crops. Plant Breeding and Biotechnology. 2014.'
+- citation: '**Sampath Perumal**, Yang Tae-Jin. Miniature Inverted-repeat Transposable Elements (MITEs) as valuable genomic resources for the evolution and breeding of Brassica crops. *Plant Breeding and Biotechnology*. 2014.'
   date:  2014
   pmid: 
   image: '/static/img/pub/3.png'
@@ -208,7 +232,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: 'Izzah Nur Kholilatul, Lee Jonghoon, **Perumal Sampath**, Park Jee Young, Ahn Kyounggu, Fu Donghui, Kim Goon-Bo, Nam Young-Woo, Yang Tae-Jin. Microsatellite-based analysis of genetic diversity in 91 commercial Brassica oleracea L. cultivars belonging to six varietal groups. Genetic Resources and Crop Evolution. 2013.'
+- citation: 'Izzah Nur Kholilatul, Lee Jonghoon, **Perumal Sampath**, Park Jee Young, Ahn Kyounggu, Fu Donghui, Kim Goon-Bo, Nam Young-Woo, Yang Tae-Jin. Microsatellite-based analysis of genetic diversity in 91 commercial Brassica oleracea L. cultivars belonging to six varietal groups. *Genetic Resources and Crop Evolution*. 2013.'
   date:  2013
   pmid: 
   image: '/static/img/pub/2.png'
@@ -217,7 +241,7 @@
   links:
     - name: "For Supplemental materials"
       url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
-- citation: '**Sampath Perumal**, Lee Sang-Choon, Lee Jonghoon, Izzah Nur Kholilatul, Choi Beom-Soon, Jin Mina, Park Beom-Seok, Yang Tae-Jin. Characterization of a new high copy Stowaway family MITE, BRAMI-1 in Brassica genome. BMC plant biology. 2013.'
+- citation: '**Sampath Perumal**, Lee Sang-Choon, Lee Jonghoon, Izzah Nur Kholilatul, Choi Beom-Soon, Jin Mina, Park Beom-Seok, Yang Tae-Jin. Characterization of a new high copy Stowaway family MITE, BRAMI-1 in Brassica genome. *BMC plant biology*. 2013.'
   date:  2013
   pmid:  23547712
   image: '/static/img/pub/1.png'
