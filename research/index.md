@@ -14,7 +14,8 @@ group: CV
 
 ### Professional Work Experiences	
 
-•	2016/09 – till now - Post-Doctoral researcher, Agriculture and Agri-Food Canada, Saskatoon, Canada.  <br>
+•	2020/09 – till now - Research officer, Global Institute for Food Security, University of Saskatchewan, Saskatoon, Canada.  <br>
+•	2016/09 – 2020/08 - Post-Doctoral researcher, Agriculture and Agri-Food Canada, Saskatoon, Canada.  <br>
 •	2014/03-2016/08 - Post-Doctoral fellow, Seoul National University, South Korea.  <br>
 •	2005/07-2006/03 - Agricultural officer cum Team Leader, MGP Herbals Private Ltd,  Manjini, India.  <br>
 
@@ -57,7 +58,7 @@ group: CV
 **Workshop**: Foundations of Project Management II - University of Saskatchewan, Canada	Mar 8-9, 2018  <br>
 
 ### Outreach, Management Skills and Community involvement
-o	2019/10- ~ :  PSAC Union Vice-President, University of Saskatchewan  <br>
+o	2019/10- 2020/06 :  PSAC Union Vice-President, University of Saskatchewan  <br>
 o	2010-2015 Indian community activity – Organizing events, Conducting functions and games shows  <br>
 o	2008/09-2009/08	: Korean Language Scholar, Wonkwang University, South Korea  <br>
 o	2017/10-2018/03 :  PSAC Union Secretary, University of Saskatchewan  <br>
