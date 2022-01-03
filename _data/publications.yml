@@ -1,3 +1,44 @@
+- citation: 'Rajarajan, K., K. Ganesamurthy, M. Raveendran, P. Jeyakumar, A. Yuvaraja, **Sampath Perumal**, P. T. Prathima, and C. Senthilraja. **Differential responses of sorghum genotypes to drought stress revealed by physio-chemical and transcriptional analysis**. **Molecular Biology Reports**, 2021.'
+  date:  2021
+  pmid: 
+  image: '/static/img/pub/31.2021_SorghamDrought_MBR.png'
+  pdf: '/static/pdf/31.2021_SorghamDrought_MBR.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://link.springer.com/article/10.1007/s11033-021-06279-z'
+
+- citation: '**Sampath Perumal**, Nomar Espinosa Waminal, Jonghoon Lee, Hyun-Jin Koo, Boem-soon Choi, Jee Young Park, Kyounggu Ahn, and Tae-Jin Yang. **Nuclear and Chloroplast Genome Diversity Revealed by Low-Coverage Whole-Genome Shotgun Sequence in 44 Brassica oleracea Breeding Lines**. **Horticultural Plant Journal **, 2021.'
+  date:  2021
+  pmid: 
+  image: '/static/img/pub/30.2021_Bol44_HPJ.png'
+  pdf: '/static/pdf/30.2021_Bol44_HPJ.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.sciencedirect.com/science/article/pii/S2468014121000315'
+
+- citation: 'Mahesh, H. B., M. K. Prasannakumar, K. G. Manasa, **Sampath Perumal**, Yogendra Khedikar, Sateesh Kagale, Raju Y. Soolanayakanahally, H. C. Lohithaswa, Annabathula Mohan Rao, and Shailaja Hittalmani. **Genome, Transcriptome, and Germplasm Sequencing Uncovers Functional Variation in the Warm-Season Grain Legume Horsegram Macrotyloma uniflorum (Lam.) Verdc**. **Frontiers in plant science **, 2021.'
+  date:  2021
+  pmid: 34733308
+  image: '/static/img/pub/29.2021_Horsegram_FIPS.png'
+  pdf: '/static/pdf/29.2021_Horsegram_FIPS.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.frontiersin.org/articles/10.3389/fpls.2021.758119/full'
+
+- citation: 'Waminal, Nomar Espinosa, **Sampath Perumal**, Jonghoon Lee, Hyun Hee Kim, and Tae-Jin Yang. **Composition and Organization of Major Repeat Components in the Brassica oleracea Genome**. **In The Brassica oleracea Genome, Springer **, 2021.'
+  date:  2021
+  pmid: 
+  image: '/static/img/pub/28.2021_Bol_Bookchapter.png'
+  pdf: '/static/pdf/28.2021_Bol_Bookchapter.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://link.springer.com/chapter/10.1007/978-3-030-31005-9_5'
+
+
 - citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. **A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome**. *Nature Plants*. 2020.'
   date:  2020
   pmid: 32782408
