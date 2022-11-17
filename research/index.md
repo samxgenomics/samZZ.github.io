@@ -14,7 +14,9 @@ group: CV
 
 ### Professional Work Experiences	
 
-•	2020/09 – till now - Research officer, Global Institute for Food Security, University of Saskatchewan, Saskatoon, Canada.  <br>
+•	2022/05 ~	- Technical Lead-Plant Improvement Program, GIFS, Saskatoon, Canada.  <br>
+•	2021/09 - 2022/04 - Research Associate, GIFS, University of Saskatchewan, Saskatoon, Canada.  <br>
+•	2020/09 – 2021/09 - Research officer, Global Institute for Food Security, University of Saskatchewan, Saskatoon, Canada.  <br>
 •	2016/09 – 2020/08 - Post-Doctoral researcher, Agriculture and Agri-Food Canada, Saskatoon, Canada.  <br>
 •	2014/03-2016/08 - Post-Doctoral fellow, Seoul National University, South Korea.  <br>
 •	2005/07-2006/03 - Agricultural officer cum Team Leader, MGP Herbals Private Ltd,  Manjini, India.  <br>
