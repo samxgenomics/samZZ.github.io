@@ -6,10 +6,17 @@ group: home
 
 # Sampath! Welcomes you!
 
-I am a Researcher officer working with [Andrew sharpe](https://p2irc.usask.ca/profiles/theme-1/andrew-sharpe.php) and [Isobel Parkin](http://parkingenomics.github.io/) at the [Global Institute for Food Security, Saskatoon](https://www.gifs.ca/). I have a broad knowledge and experience in plant molecular biology, genomics and genome evolution and I hold various experties in plant genomics and molecular breeding area, such as, <br>
-	1. Good experience of genomics (Genome assembly, chloroplast assembly, Transposons, annotation) and molecular breeding techniques (MARS, MABC, GWAS, GS).<br>
-	2. Experience analyzing NGS and long-read (Nanopore) for genome assembly [recent publication](https://www.nature.com/articles/s41477-020-0735-y), transcript quantitation, variant calling, gene expression analysis and methylome analysis.<br>	
-	3. Experience in plant genomics research and computational methods for analysis Nanopore-seq, NGS, GWAS, linkage and QTL mapping, and phylogenetic data.<br>
+
+
+I am currently working as a Team Lead at the Global Institute for Food Security, University of Saskatchewan (Saskatoon, Canada), where I oversee multiple plant improvement projects. I have been leading my team in developing multiple genome assemblies, high-throughput-phenotyping, quantitative genetics and CRISPR editing. <br>
+With over 10 years of experience in crop genomics, bioinformatics, and molecular plant breeding, I have broad interests in plant genomics and genetics. I possess strong domain knowledge and understanding of breeding, genomics, comparative genomics, pan genomics, and other cutting-edge genomic techniques. Some highlights about my skills <br>	 
+• Strong domain knowledge and understanding of genomics, comparative genomics, pan-genomics, and other cutting edge genomic technics.<br>	
+• Working and managing on government and industry funded projects - developing multiple genome assemblies, high-throughput-phenotyping, quantitative genetics and CRISPR editing. <br>	
+• I have solid experience in computational skills with command-line (Linux) interfaces and scripting using Bash, Python, and R. <br>	
+• Day-to-day planning and supervising – Post-Docs, students and Technician <br>	
+• Designing new projects (writing proposals) project planning and management <br>	
+
+[Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
 
 Currently, I am focused on long-read (Nanopore) based structural variant analysis in canola.
 [Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
