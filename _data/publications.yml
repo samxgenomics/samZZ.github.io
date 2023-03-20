@@ -1,3 +1,81 @@
+- citation: 'Raju Chaudhary, Chu Shin Koh, **Sampath Perumal**, Lingling Jin, Erin E. Higgins, Sateesh Kagale, Mark A. Smith, Andrew G. Sharpe and Isobel A. P. Parkin. Sequencing of Camelina neglecta reveals a progenitor of the hexaploid oilseed Camelina sativa. *Plant biotechnology journal*. 2022'
+  date: 2023
+  pmid: 36398722
+  image: '/static/img/pub/33.2023_PBj_Raju_Cneglecta.png'
+  pdf: '/static/pdf/33.2023_PBj_Raju_Cneglecta.pdf'  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.13968'
+    - name: "JBrowse website"
+      url: 'http://cruciferseq.ca/'
+      
+- citation: 'Shin H, Park JE, Park HR, Choi WL, Yu SH, Koh W, Kim S, Soh HY, Waminal NE, Belandres HR, Lim JY. **Sampath Perumal**, et. al. Admixture of Divergent Genomes Facilitates Hybridization across Species in the Family Brassicaceae. *New Phytologist*.2022'
+  date:  2022
+  pmid: 35403705
+  image: '/static/img/pub/32.2022_NuPy_AdmixtureBrassicaceae.png'
+  pdf: '/static/pdf/32.2022_NuPy_AdmixtureBrassicaceae.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18155'      
+- citation: 'Rai, A.N., Rao, M., Gupta, N.C., Kashyap, A., Thakur, S., Bharadwaj, P., **Sampath P**. and Suprasanna, P., Transcriptomics Research and Resources in Brassica spp. *In The Brassica juncea Genome* 2022'
+  date:  2022
+  pmid:  
+  image: '/static/img/pub/31.2022_tanscriptome_juncea_chapter.png'
+  pdf: '/static/pdf/31.2022_tanscriptome_juncea_chapter.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: ''
+- citation: 'Rajarajan, K., Ganesamurthy, K., Raveendran, M. P. Jeyakumar, A. Yuvaraja, **Sampath Perumal**, P. T. Prathima & C. Senthilraja. Differential responses of sorghum genotypes to drought stress revealed by physio-chemical and transcriptional analysis. *Mol Biol Rep* 2021'
+  date:  2021
+  pmid:  33755850
+  image: '/static/img/pub/30.2021_Sorghum_Rajarajan.png'
+  pdf: '/static/pdf/30.2021_Sorghum_Rajarajan.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://link.springer.com/article/10.1007/s11033-021-06279-z'
+- citation: 'Mahesh HB, Prasanna Kumar MK, Manasa KG, **Sampath P**, Khedikar Y, Kagale S, Soolanayakanahally R, CHANDAPPA LH, Rao AM, Hittalmani S. Genome, Transcriptome, and Germplasm Sequencing Uncovers Functional Variation in the Warm-season Grain Legume Horsegram Macrotyloma uniflorum (Lam.) Verdc. *Frontiers in Plant Science*. 2021'
+  date:  2021
+  pmid:  34733308
+  image: '/static/img/pub/29.2021_Horsegram_FIPS.png'
+  pdf: '/static/pdf/29.2021_Horsegram_FIPS.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://doi.org/10.3389/fpls.2021.758119'
+      
+- citation: '**Sampath P**., Waminal, N.E., Lee, J., Koo, H.J., Choi, B.S., Park, J.Y., Ahn, K. and Yang, T.J.,. Nuclear and Chloroplast Genome Diversity Revealed by Low-Coverage Whole-Genome Shotgun Sequence in 44 Brassica oleracea Breeding Lines. *Horticultural Plant Journal*. 2021'
+  date:  2021
+  pmid: 
+  image: '/static/img/pub/28.2021_Bol44_HPJ.png'
+  pdf: '/static/pdf/28.2021_Bol44_HPJ.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://doi.org/10.1016/j.hpj.2021.02.004'
+      
+- citation: 'Koo H, Shim H, **Sampath P**, Joh HJ, Yang TJ. Genomic Signature for Stem Swollen of Kohlrabi Morphotype in Brassica oleracea. *Plant breeding and biotechnology*. 2021'
+  date:  2021
+  pmid:  
+  image: ''
+  pdf: ''
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.researchgate.net/profile/Sampath_Perumal/research'
+      
+- citation: 'Waminal NE, **Sampath P**, Lee J, Kim HH, Yang TJ. Composition and Organization of Major Repeat Components in the Brassica oleracea Genome. *In The Brassica oleracea Genome*. 2021'
+  date:  2021
+  pmid:  29269833
+  image: '/static/img/pub/26.2021_Bol_Bookchapter.png'
+  pdf: '/static/pdf/26.2021_Bol_Bookchapter.pdf'
+  
+  links:
+    - name: "For more information"
+      url: 'https://link.springer.com/chapter/10.1007/978-3-030-31005-9_5
+      
 - citation: '**Perumal Sampath**, Koh Chu Shin, Jin Lingling, Buchwaldt Miles, Higgins Erin E., Zheng Chunfang, Sankoff David, Robinson Stephen J., Kagale Sateesh, Navabi Zahra-Katy, Tang Lily, Horner Kyla N., He Zhesi, Bancroft Ian, Chalhoub Boulos, Sharpe Andrew G., Parkin Isobel A. P. **A high-contiguity Brassica nigra genome localizes active centromeres and defines the ancestral Brassica genome**. *Nature Plants*. 2020.'
   date:  2020
   pmid: 32782408
