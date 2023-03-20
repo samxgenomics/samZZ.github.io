@@ -16,7 +16,4 @@ With over 10 years of experience in crop genomics, bioinformatics, and molecular
 • Day-to-day planning and supervising – Post-Docs, students and Technician <br>	
 • Designing new projects (writing proposals) project planning and management <br>	
 
-[Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
-
-Currently, I am focused on long-read (Nanopore) based structural variant analysis in canola.
-[Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
+[check my publications on Google Scholar](https://scholar.google.co.in/citations?user=JOuANlIAAAAJ&hl=en) <br>
